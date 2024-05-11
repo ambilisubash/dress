@@ -1,0 +1,89 @@
+.inbox1{
+    /* height: 300px; */
+    /* background-color: blueviolet; */
+    /* background-image: tex.jpg; */
+}
+.sec1{
+    /* height: 500px; */
+    /* background-color: blueviolet; */
+    
+}
+.sec2{
+    height: 500px;
+    background-color: blanchedalmond;
+    background-image: url(blur.jpg);
+    background-size: cover;
+}
+.dress{
+    font-size: 60px;
+    font-weight:bold;
+    text-align: center;
+    padding-top: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+.bi{
+    color: rgb(242, 236, 236);
+    font-size: 30px;
+    margin-top: 30px;
+    
+}
+.head1{
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+    color:rgb(21, 21, 20);
+}
+.shop{
+    font-size: 20px;
+    color: #131212;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 30px;
+    
+}
+.sec3{
+    height: 350px;
+    background-color: rgb(238, 182, 219);
+}
+.inbox3{
+    height: 250px;
+    background-color: palevioletred;
+    margin-top: 20px;
+    background: url(dree1.jpg);
+    background-size: cover;
+}
+.inbox4{
+    height: 250px;
+    background-color: palevioletred;
+    margin-top: 20px;
+    background: url(dress2.jpg);
+    background-size: cover;
+}
+.inbox5{
+    height: 250px;
+    background-color: palevioletred;
+    margin-top: 20px;
+    background: url(dress3.jpg);
+    background-size: cover;
+}
+.inbox6{
+    height: 250px;
+    background-color: palevioletred;
+    margin-top: 20px;
+    background: url(dress5.jpg);
+    background-size: cover;
+}
+.head4{
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+.sec4{
+    height: 50px;
+    background-color: black;
+}
+.phone{
+    font-size: 20px;
+    color: white;
+}
